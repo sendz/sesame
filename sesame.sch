@@ -314,7 +314,7 @@ F 3 "" H 7150 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5ECB5CCE
 P 1900 900
 F 0 "MX1" H 1850 1100 60  0000 C CNN
@@ -338,7 +338,7 @@ $EndComp
 Wire Wire Line
 	1750 1050 1850 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5ECC144E
 P 2450 900
 F 0 "MX2" H 2400 1100 60  0000 C CNN
@@ -351,7 +351,7 @@ $EndComp
 Wire Wire Line
 	2300 1050 2400 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5ECC6565
 P 3000 900
 F 0 "MX3" H 2950 1100 60  0000 C CNN
@@ -364,7 +364,7 @@ $EndComp
 Wire Wire Line
 	2850 1050 2950 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5ECCAC9A
 P 3550 900
 F 0 "MX4" H 3500 1100 60  0000 C CNN
@@ -377,7 +377,7 @@ $EndComp
 Wire Wire Line
 	3400 1050 3500 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 5ECCACAF
 P 4100 900
 F 0 "MX5" H 4050 1100 60  0000 C CNN
@@ -390,7 +390,7 @@ $EndComp
 Wire Wire Line
 	3950 1050 4050 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 5ECCACC4
 P 4650 900
 F 0 "MX6" H 4600 1100 60  0000 C CNN
@@ -403,7 +403,7 @@ $EndComp
 Wire Wire Line
 	4500 1050 4600 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 5ECD7C5E
 P 5200 900
 F 0 "MX7" H 5150 1100 60  0000 C CNN
@@ -416,7 +416,7 @@ $EndComp
 Wire Wire Line
 	5050 1050 5150 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 5ECD7C73
 P 5750 900
 F 0 "MX8" H 5700 1100 60  0000 C CNN
@@ -429,7 +429,7 @@ $EndComp
 Wire Wire Line
 	5600 1050 5700 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 5ECD7C88
 P 6300 900
 F 0 "MX9" H 6250 1100 60  0000 C CNN
@@ -442,7 +442,7 @@ $EndComp
 Wire Wire Line
 	6150 1050 6250 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 5ECD7C9D
 P 6850 900
 F 0 "MX10" H 6800 1100 60  0000 C CNN
@@ -455,7 +455,7 @@ $EndComp
 Wire Wire Line
 	6700 1050 6800 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 5ECD7CB2
 P 7400 900
 F 0 "MX11" H 7350 1100 60  0000 C CNN
@@ -468,7 +468,7 @@ $EndComp
 Wire Wire Line
 	7250 1050 7350 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 5ECD7CC7
 P 7950 900
 F 0 "MX12" H 7900 1100 60  0000 C CNN
@@ -481,7 +481,7 @@ $EndComp
 Wire Wire Line
 	7800 1050 7900 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 5ECEB867
 P 8500 900
 F 0 "MX13" H 8450 1100 60  0000 C CNN
@@ -494,7 +494,7 @@ $EndComp
 Wire Wire Line
 	8350 1050 8450 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX66
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX66
 U 1 1 5ECEB87C
 P 6300 3900
 F 0 "MX66" H 6250 4100 60  0000 C CNN
@@ -507,7 +507,7 @@ $EndComp
 Wire Wire Line
 	6150 4050 6250 4050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX14
 U 1 1 5ECEB891
 P 9050 900
 F 0 "MX14" H 9000 1100 60  0000 C CNN
@@ -520,7 +520,7 @@ $EndComp
 Wire Wire Line
 	8900 1050 9000 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX45
 U 1 1 5ECEB8A6
 P 9050 2400
 F 0 "MX45" H 9000 2600 60  0000 C CNN
@@ -533,7 +533,7 @@ $EndComp
 Wire Wire Line
 	8900 2550 9000 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 5ECEB8BB
 P 9600 900
 F 0 "MX15" H 9550 1100 60  0000 C CNN
@@ -546,7 +546,7 @@ $EndComp
 Wire Wire Line
 	9450 1050 9550 1050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 5ED11441
 P 1900 1650
 F 0 "MX17" H 1933 1873 60  0000 C CNN
@@ -570,7 +570,7 @@ $EndComp
 Wire Wire Line
 	1750 1800 1850 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 5ED11456
 P 2450 1650
 F 0 "MX18" H 2483 1873 60  0000 C CNN
@@ -594,7 +594,7 @@ $EndComp
 Wire Wire Line
 	2300 1800 2400 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX19
 U 1 1 5ED1146B
 P 3000 1650
 F 0 "MX19" H 3033 1873 60  0000 C CNN
@@ -618,7 +618,7 @@ $EndComp
 Wire Wire Line
 	2850 1800 2950 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX20
 U 1 1 5ED11480
 P 3550 1650
 F 0 "MX20" H 3583 1873 60  0000 C CNN
@@ -642,7 +642,7 @@ $EndComp
 Wire Wire Line
 	3400 1800 3500 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX21
 U 1 1 5ED11495
 P 4100 1650
 F 0 "MX21" H 4133 1873 60  0000 C CNN
@@ -666,7 +666,7 @@ $EndComp
 Wire Wire Line
 	3950 1800 4050 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX22
 U 1 1 5ED114AA
 P 4650 1650
 F 0 "MX22" H 4683 1873 60  0000 C CNN
@@ -690,7 +690,7 @@ $EndComp
 Wire Wire Line
 	4500 1800 4600 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX23
 U 1 1 5ED114BF
 P 5200 1650
 F 0 "MX23" H 5233 1873 60  0000 C CNN
@@ -714,7 +714,7 @@ $EndComp
 Wire Wire Line
 	5050 1800 5150 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX24
 U 1 1 5ED114D4
 P 5750 1650
 F 0 "MX24" H 5783 1873 60  0000 C CNN
@@ -738,7 +738,7 @@ $EndComp
 Wire Wire Line
 	5600 1800 5700 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX25
 U 1 1 5ED114E9
 P 6300 1650
 F 0 "MX25" H 6333 1873 60  0000 C CNN
@@ -762,7 +762,7 @@ $EndComp
 Wire Wire Line
 	6150 1800 6250 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX26
 U 1 1 5ED114FE
 P 6850 1650
 F 0 "MX26" H 6883 1873 60  0000 C CNN
@@ -786,7 +786,7 @@ $EndComp
 Wire Wire Line
 	6700 1800 6800 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX27
 U 1 1 5ED11513
 P 7400 1650
 F 0 "MX27" H 7433 1873 60  0000 C CNN
@@ -810,7 +810,7 @@ $EndComp
 Wire Wire Line
 	7250 1800 7350 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX28
 U 1 1 5ED11528
 P 7950 1650
 F 0 "MX28" H 7983 1873 60  0000 C CNN
@@ -834,7 +834,7 @@ $EndComp
 Wire Wire Line
 	7800 1800 7900 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX29
 U 1 1 5ED1153D
 P 8500 1650
 F 0 "MX29" H 8533 1873 60  0000 C CNN
@@ -858,7 +858,7 @@ $EndComp
 Wire Wire Line
 	8350 1800 8450 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX30
 U 1 1 5ED11567
 P 9050 1650
 F 0 "MX30" H 9083 1873 60  0000 C CNN
@@ -882,7 +882,7 @@ $EndComp
 Wire Wire Line
 	8900 1800 9000 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX31
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX31
 U 1 1 5ED1157C
 P 9600 1650
 F 0 "MX31" H 9633 1873 60  0000 C CNN
@@ -906,7 +906,7 @@ $EndComp
 Wire Wire Line
 	9450 1800 9550 1800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX32
 U 1 1 5ED2746B
 P 1900 2400
 F 0 "MX32" H 1933 2623 60  0000 C CNN
@@ -930,7 +930,7 @@ $EndComp
 Wire Wire Line
 	1750 2550 1850 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX33
 U 1 1 5ED27480
 P 2450 2400
 F 0 "MX33" H 2483 2623 60  0000 C CNN
@@ -954,7 +954,7 @@ $EndComp
 Wire Wire Line
 	2300 2550 2400 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX34
 U 1 1 5ED27495
 P 3000 2400
 F 0 "MX34" H 3033 2623 60  0000 C CNN
@@ -978,7 +978,7 @@ $EndComp
 Wire Wire Line
 	2850 2550 2950 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX35
 U 1 1 5ED274AA
 P 3550 2400
 F 0 "MX35" H 3583 2623 60  0000 C CNN
@@ -1002,7 +1002,7 @@ $EndComp
 Wire Wire Line
 	3400 2550 3500 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX36
 U 1 1 5ED274BF
 P 4100 2400
 F 0 "MX36" H 4133 2623 60  0000 C CNN
@@ -1026,7 +1026,7 @@ $EndComp
 Wire Wire Line
 	3950 2550 4050 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX37
 U 1 1 5ED274D4
 P 4650 2400
 F 0 "MX37" H 4683 2623 60  0000 C CNN
@@ -1050,7 +1050,7 @@ $EndComp
 Wire Wire Line
 	4500 2550 4600 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX38
 U 1 1 5ED274E9
 P 5200 2400
 F 0 "MX38" H 5233 2623 60  0000 C CNN
@@ -1074,7 +1074,7 @@ $EndComp
 Wire Wire Line
 	5050 2550 5150 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX39
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX39
 U 1 1 5ED274FE
 P 5750 2400
 F 0 "MX39" H 5783 2623 60  0000 C CNN
@@ -1098,7 +1098,7 @@ $EndComp
 Wire Wire Line
 	5600 2550 5700 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX40
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX40
 U 1 1 5ED27513
 P 6300 2400
 F 0 "MX40" H 6333 2623 60  0000 C CNN
@@ -1122,7 +1122,7 @@ $EndComp
 Wire Wire Line
 	6150 2550 6250 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX41
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX41
 U 1 1 5ED27528
 P 6850 2400
 F 0 "MX41" H 6883 2623 60  0000 C CNN
@@ -1146,7 +1146,7 @@ $EndComp
 Wire Wire Line
 	6700 2550 6800 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX42
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX42
 U 1 1 5ED2753D
 P 7400 2400
 F 0 "MX42" H 7433 2623 60  0000 C CNN
@@ -1170,7 +1170,7 @@ $EndComp
 Wire Wire Line
 	7250 2550 7350 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX43
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX43
 U 1 1 5ED27552
 P 7950 2400
 F 0 "MX43" H 7983 2623 60  0000 C CNN
@@ -1194,7 +1194,7 @@ $EndComp
 Wire Wire Line
 	7800 2550 7900 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX44
 U 1 1 5ED27567
 P 8500 2400
 F 0 "MX44" H 8533 2623 60  0000 C CNN
@@ -1218,7 +1218,7 @@ $EndComp
 Wire Wire Line
 	8350 2550 8450 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX46
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX46
 U 1 1 5ED27591
 P 9600 2400
 F 0 "MX46" H 9633 2623 60  0000 C CNN
@@ -1242,7 +1242,7 @@ $EndComp
 Wire Wire Line
 	9450 2550 9550 2550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX47
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX47
 U 1 1 5ED6DC60
 P 2450 3150
 F 0 "MX47" H 2483 3373 60  0000 C CNN
@@ -1266,7 +1266,7 @@ $EndComp
 Wire Wire Line
 	2300 3300 2400 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX48
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX48
 U 1 1 5ED6DC75
 P 3000 3150
 F 0 "MX48" H 3033 3373 60  0000 C CNN
@@ -1290,7 +1290,7 @@ $EndComp
 Wire Wire Line
 	2850 3300 2950 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX49
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX49
 U 1 1 5ED6DC8A
 P 3550 3150
 F 0 "MX49" H 3583 3373 60  0000 C CNN
@@ -1314,7 +1314,7 @@ $EndComp
 Wire Wire Line
 	3400 3300 3500 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX50
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX50
 U 1 1 5ED6DC9F
 P 4100 3150
 F 0 "MX50" H 4133 3373 60  0000 C CNN
@@ -1338,7 +1338,7 @@ $EndComp
 Wire Wire Line
 	3950 3300 4050 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX51
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX51
 U 1 1 5ED6DCB4
 P 4650 3150
 F 0 "MX51" H 4683 3373 60  0000 C CNN
@@ -1362,7 +1362,7 @@ $EndComp
 Wire Wire Line
 	4500 3300 4600 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX52
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX52
 U 1 1 5ED6DCC9
 P 5200 3150
 F 0 "MX52" H 5233 3373 60  0000 C CNN
@@ -1386,7 +1386,7 @@ $EndComp
 Wire Wire Line
 	5050 3300 5150 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX53
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX53
 U 1 1 5ED6DCDE
 P 5750 3150
 F 0 "MX53" H 5783 3373 60  0000 C CNN
@@ -1410,7 +1410,7 @@ $EndComp
 Wire Wire Line
 	5600 3300 5700 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX54
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX54
 U 1 1 5ED6DCF3
 P 6300 3150
 F 0 "MX54" H 6333 3373 60  0000 C CNN
@@ -1434,7 +1434,7 @@ $EndComp
 Wire Wire Line
 	6150 3300 6250 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX55
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX55
 U 1 1 5ED6DD08
 P 6850 3150
 F 0 "MX55" H 6883 3373 60  0000 C CNN
@@ -1458,7 +1458,7 @@ $EndComp
 Wire Wire Line
 	6700 3300 6800 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX56
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX56
 U 1 1 5ED6DD1D
 P 7400 3150
 F 0 "MX56" H 7433 3373 60  0000 C CNN
@@ -1482,7 +1482,7 @@ $EndComp
 Wire Wire Line
 	7250 3300 7350 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX57
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX57
 U 1 1 5ED6DD32
 P 7950 3150
 F 0 "MX57" H 7983 3373 60  0000 C CNN
@@ -1506,7 +1506,7 @@ $EndComp
 Wire Wire Line
 	7800 3300 7900 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX58
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX58
 U 1 1 5ED6DD47
 P 8500 3150
 F 0 "MX58" H 8533 3373 60  0000 C CNN
@@ -1530,7 +1530,7 @@ $EndComp
 Wire Wire Line
 	8350 3300 8450 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX59
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX59
 U 1 1 5ED6DD71
 P 9050 3150
 F 0 "MX59" H 9083 3373 60  0000 C CNN
@@ -1554,7 +1554,7 @@ $EndComp
 Wire Wire Line
 	8900 3300 9000 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX60
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX60
 U 1 1 5ED6DD86
 P 9600 3150
 F 0 "MX60" H 9633 3373 60  0000 C CNN
@@ -1578,7 +1578,7 @@ $EndComp
 Wire Wire Line
 	9450 3300 9550 3300
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX62
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX62
 U 1 1 5ED80F9F
 P 2450 3900
 F 0 "MX62" H 2483 4123 60  0000 C CNN
@@ -1602,7 +1602,7 @@ $EndComp
 Wire Wire Line
 	2300 4050 2400 4050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX67
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX67
 U 1 1 5ED81032
 P 7400 3900
 F 0 "MX67" H 7433 4123 60  0000 C CNN
@@ -1626,7 +1626,7 @@ $EndComp
 Wire Wire Line
 	7250 4050 7350 4050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX68
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX68
 U 1 1 5ED810B0
 P 9050 3900
 F 0 "MX68" H 9083 4123 60  0000 C CNN
@@ -2210,7 +2210,7 @@ F 3 "~" H 1550 6950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX63
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX63
 U 1 1 5F0C7E91
 P 3550 3900
 F 0 "MX63" H 3583 4123 60  0000 C CNN
@@ -2237,7 +2237,7 @@ Wire Wire Line
 	3700 3100 3700 3850
 Connection ~ 3700 3100
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX64
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX64
 U 1 1 5F0DD379
 P 4650 3900
 F 0 "MX64" H 4683 4123 60  0000 C CNN
@@ -2263,7 +2263,7 @@ Wire Wire Line
 Wire Wire Line
 	4800 3100 4800 3850
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX65
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX65
 U 1 1 5F0DD38F
 P 5200 3900
 F 0 "MX65" H 5233 4123 60  0000 C CNN
@@ -2299,24 +2299,9 @@ Wire Wire Line
 Connection ~ 10150 5200
 Wire Wire Line
 	10150 5200 10250 5200
-$Comp
-L Connector:USB_C_Receptacle_USB2.0 USB1
-U 1 1 5F2A909F
-P 6450 5500
-F 0 "USB1" H 6557 6367 50  0000 C CNN
-F 1 "USB_C_Receptacle_USB2.0" H 6557 6276 50  0000 C CNN
-F 2 "custom_parts:USB_C_GCT_USB4085" H 6600 5500 50  0001 C CNN
-F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 6600 5500 50  0001 C CNN
-	1    6450 5500
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6150 6400 6450 6400
 Connection ~ 6450 6400
-Wire Wire Line
-	7050 5700 7050 5600
-Wire Wire Line
-	7050 5400 7050 5500
 $Comp
 L Device:R R1
 U 1 1 5F826D22
@@ -2342,8 +2327,6 @@ Wire Wire Line
 Wire Wire Line
 	7650 4900 7750 4900
 Connection ~ 7650 4900
-Connection ~ 7050 5400
-Connection ~ 7050 5600
 Wire Wire Line
 	8050 4900 8100 4900
 Wire Wire Line
@@ -2351,48 +2334,6 @@ Wire Wire Line
 Connection ~ 8100 5400
 Wire Wire Line
 	8100 5400 8200 5400
-$Comp
-L Device:R R5
-U 1 1 5F94DE3E
-P 7350 5200
-F 0 "R5" V 7250 5200 50  0000 C CNN
-F 1 "5.1K" V 7350 5200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7280 5200 50  0001 C CNN
-F 3 "~" H 7350 5200 50  0001 C CNN
-	1    7350 5200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R4
-U 1 1 5F94E87D
-P 7350 5100
-F 0 "R4" V 7450 5100 50  0000 C CNN
-F 1 "5.1K" V 7350 5100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7280 5100 50  0001 C CNN
-F 3 "~" H 7350 5100 50  0001 C CNN
-	1    7350 5100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7050 5100 7200 5100
-Wire Wire Line
-	7050 5200 7200 5200
-$Comp
-L power:GND #PWR04
-U 1 1 5F98ED1C
-P 7700 5100
-F 0 "#PWR04" H 7700 4850 50  0001 C CNN
-F 1 "GND" H 7705 4927 50  0000 C CNN
-F 2 "" H 7700 5100 50  0001 C CNN
-F 3 "" H 7700 5100 50  0001 C CNN
-	1    7700 5100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7500 5200 7500 5100
-Wire Wire Line
-	7500 5100 7700 5100
-Connection ~ 7500 5100
 Wire Wire Line
 	5100 5800 5200 5800
 Wire Wire Line
@@ -2419,10 +2360,6 @@ Connection ~ 1700 7050
 Wire Wire Line
 	1700 7050 1850 7050
 Wire Wire Line
-	7050 5400 7550 5400
-Wire Wire Line
-	7050 5600 7800 5600
-Wire Wire Line
 	7550 6400 7550 6150
 Wire Wire Line
 	6450 6400 7550 6400
@@ -2433,12 +2370,10 @@ Wire Wire Line
 Connection ~ 7550 6400
 Wire Wire Line
 	7550 5850 7550 5400
-Connection ~ 7550 5400
 Wire Wire Line
 	7550 5400 8100 5400
 Wire Wire Line
 	7800 5850 7800 5600
-Connection ~ 7800 5600
 Wire Wire Line
 	7800 5600 8200 5600
 Wire Wire Line
@@ -2451,7 +2386,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 4250 7250 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 601B120F
 P 10200 900
 F 0 "MX16" H 10150 1100 60  0000 C CNN
@@ -2479,7 +2414,7 @@ Wire Wire Line
 Wire Wire Line
 	8350 2750 8900 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX61
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX61
 U 1 1 602C970D
 P 10150 3150
 F 0 "MX61" H 10100 3350 60  0000 C CNN
@@ -2508,7 +2443,7 @@ row4
 Text GLabel 2300 3500 0    50   Input ~ 0
 row3
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX69
+L sesame-rescue:MX-NoLED-MX_Alps_Hybrid MX69
 U 1 1 5F27D25B
 P 1150 2400
 F 0 "MX69" H 1183 2623 60  0000 C CNN
@@ -2524,51 +2459,80 @@ Text GLabel 2300 2550 1    50   Input ~ 0
 caps
 Text GLabel 1100 2550 0    50   Input ~ 0
 caps
-Text GLabel 5500 7200 2    50   Input ~ 0
-MOSI
-Text GLabel 5500 7100 2    50   Input ~ 0
-MISO
-Text GLabel 5500 7000 2    50   Input ~ 0
-SCK
-$Comp
-L power:GND #PWR0101
-U 1 1 5F329387
-P 5750 7300
-F 0 "#PWR0101" H 5750 7050 50  0001 C CNN
-F 1 "GND" H 5755 7127 50  0000 C CNN
-F 2 "" H 5750 7300 50  0001 C CNN
-F 3 "" H 5750 7300 50  0001 C CNN
-	1    5750 7300
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0102
-U 1 1 5F329944
-P 5750 6800
-F 0 "#PWR0102" H 5750 6650 50  0001 C CNN
-F 1 "+5V" H 5765 6973 50  0000 C CNN
-F 2 "" H 5750 6800 50  0001 C CNN
-F 3 "" H 5750 6800 50  0001 C CNN
-	1    5750 6800
-	1    0    0    -1  
-$EndComp
-Text GLabel 5500 6900 2    50   Input ~ 0
-RST
-$Comp
-L Connector_Generic:Conn_01x06 AVR1
-U 1 1 5F32D9BD
-P 5300 7100
-F 0 "AVR1" H 5218 6575 50  0000 C CNN
-F 1 "Conn_01x06" H 5218 6666 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 5300 7100 50  0001 C CNN
-F 3 "~" H 5300 7100 50  0001 C CNN
-	1    5300 7100
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	5500 7300 5750 7300
-Wire Wire Line
-	5500 6800 5750 6800
 Text GLabel 10350 5950 2    50   Input ~ 0
 BOOT
+$Comp
+L Connector:USB_B_Mini USB1
+U 1 1 5FA5767C
+P 6750 5100
+F 0 "USB1" H 6807 5567 50  0000 C CNN
+F 1 "USB_B_Mini" H 6807 5476 50  0000 C CNN
+F 2 "Keebio-Parts:USB-Mini-B_ LCSC-C46398" H 6900 5050 50  0001 C CNN
+F 3 "~" H 6900 5050 50  0001 C CNN
+	1    6750 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 5400 7300 5400
+Wire Wire Line
+	7300 5400 7300 5200
+Wire Wire Line
+	7300 5200 7050 5200
+Connection ~ 7550 5400
+Wire Wire Line
+	7800 5600 7250 5600
+Wire Wire Line
+	7250 5600 7250 5100
+Wire Wire Line
+	7250 5100 7050 5100
+Connection ~ 7800 5600
+Wire Wire Line
+	6150 6400 6150 5500
+Wire Wire Line
+	6150 5500 6650 5500
+Wire Wire Line
+	6750 5500 6650 5500
+Connection ~ 6650 5500
+Text GLabel 5400 7250 0    50   Input ~ 0
+MISO
+Text GLabel 5400 7350 0    50   Input ~ 0
+SCK
+Text GLabel 5400 7450 0    50   Input ~ 0
+RST
+Text GLabel 5900 7350 2    50   Input ~ 0
+MOSI
+$Comp
+L power:+5V #PWR0101
+U 1 1 5FB2E9D9
+P 5900 7250
+F 0 "#PWR0101" H 5900 7100 50  0001 C CNN
+F 1 "+5V" V 5915 7378 50  0000 L CNN
+F 2 "" H 5900 7250 50  0001 C CNN
+F 3 "" H 5900 7250 50  0001 C CNN
+	1    5900 7250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5FB2F8FD
+P 5900 7450
+F 0 "#PWR0102" H 5900 7200 50  0001 C CNN
+F 1 "GND" V 5905 7322 50  0000 R CNN
+F 2 "" H 5900 7450 50  0001 C CNN
+F 3 "" H 5900 7450 50  0001 C CNN
+	1    5900 7450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even AVR1
+U 1 1 5FB91D63
+P 5600 7350
+F 0 "AVR1" H 5650 7667 50  0000 C CNN
+F 1 "Conn_02x03_Odd_Even" H 5650 7576 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5600 7350 50  0001 C CNN
+F 3 "~" H 5600 7350 50  0001 C CNN
+	1    5600 7350
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7050 5300
 $EndSCHEMATC
